@@ -8,7 +8,7 @@ About 20 years ago, I read *On Intelligence* by Jeff Hawkins, the guy who invent
 
 ## The Brain as a Prediction Machine
 
-Hawkins proposed a framework called Hierarchical Temporal Memory. He demonstrated that the fundamental unit of intelligence is prediction over time. The neocortex is organized into hierarchies that are constantly predicting what comes next.
+Hawkins proposed a framework called Hierarchical Temporal Memory. He demonstrated that the fundamental unit of intelligence is prediction over time. The neocortex, the part of the brain that does most of your thinking, is organized into hierarchies that are constantly predicting what comes next.
 
 Signals from your senses enter at the bottom of this hierarchy. At the lowest levels, your brain detects simple patterns like edges, colors, and basic shapes. These feed into higher levels, which detect more complex patterns built from the simpler ones. Those feed into still higher levels, and so on.
 
@@ -26,7 +26,7 @@ You can't ask a brain to recognize high-level patterns when the lower-level stru
 
 This is why systematic phonics instruction works better than whole language approaches. Whole language asked children's brains to do something they architecturally cannot do: recognize meaning directly from text without first building reliable letter-sound correspondences. The brain needs those foundational structures in place before the higher levels can do their job.
 
-The same principle applies to math, to writing, to scientific reasoning, to any complex skill. The hierarchy has to be built from the bottom up. The structures at each level need to form before the next level can reliably build on them.
+The same principle applies to math, to writing, to scientific reasoning, video games, or any complex skill. The hierarchy has to be built from the bottom up. The structures at each level need to form before the next level can reliably build on them.
 
 ## Memory, Not Calculation
 
@@ -48,10 +48,8 @@ Because brains work in predictable ways, we can design experiences that let the 
 
 For too long, education has been driven by authoritative figures with strong opinions and devoted followers. The debates have resembled philosophy or religion more than science.
 
-That's starting to change. AI systems will soon observe in detail how millions of people learn and generate a real picture of what actually works. Instead of being beholden to charismatic authorities, we'll have data.
+That's starting to change. AI systems will soon observe in detail how millions of people learn and generate a real picture of what actually works. Instead of being beholden to venerated authorities, we'll have data.
 
 This could be one of the greatest benefits of AI in education. Not replacing teachers, but finally giving us the evidence to know what works.
 
-The neuroscience already tells us the answer. Your brain is a hierarchical system that builds complex understanding from physical structures that form through repeated practice. Any approach to education that ignores this is fighting against the architecture of the mind itself.
-
-The basics matter.
+Even without AI, the neuroscience is clear. Your brain is a hierarchical system that builds complex understanding from physical structures that form through repeated practice. Any approach to education that ignores this is fighting against the architecture of the mind itself.
